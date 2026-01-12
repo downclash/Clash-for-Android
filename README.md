@@ -9,8 +9,8 @@
 
 ## 快速访问资源
 - [Clash for Android使用教程](https://clashxhub.com/clash-for-android/)
-- [Clash for Android官网地址](https://clashxhub.com/clash-android)
-- [Clash for Android最新版下载](https://clashxhub.com/clash-android-backup-download/)
+- [Clash for Android官网地址导航](https://clashxhub.com/clash-android)
+- [Clash for Android最新版下载](https://clashxhub.com/clash-backup-download/)
 - [Clash for Android客户端大全](https://clashxhub.com/)
 - [Clash for Android机场推荐](https://clashxhub.com/node-subscribe-recommend/)
 
