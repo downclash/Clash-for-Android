@@ -3,16 +3,16 @@
 
 > ⚠️ **重要说明**：Clash for Android (CFA) 项目目前已停止官方维护与更新。
 > 我们提供的是 **历史稳定版本备份下载**，适合仍在使用 Android 且已有 Clash 配置/订阅的用户。
-> **对于追求新功能和极致体验的用户，建议迁移至 [Clash Meta for Android](https://clashkit.com/clash-meta-for-android/)。**
+> **对于追求新功能和极致体验的用户，建议迁移至 [Clash Meta for Android](https://clashmetaforandroidcn.com/)。**
 
 
 
 ## 快速访问资源
-- [Clash for Android使用教程](https://clashxhub.com/clash-for-android/)
-- [Clash for Android官网地址导航](https://clashxhub.com/clash-android)
-- [Clash for Android最新版下载](https://clashxhub.com/clash-backup-download/)
-- [Clash for Android客户端大全](https://clashxhub.com/)
-- [Clash for Android机场推荐](https://clashxhub.com/node-subscribe-recommend/)
+- [Clash for Android使用教程](https://clashforandroid.co/)
+- [Clash for Android官网地址导航](https://clashforandroid.co/official-website/)
+- [Clash for Android最新版下载](https://clashforandroid.co/latest-download/)
+- [Clash for Android客户端大全](https://clashforandroid.co/proxy-clients/)
+- [Clash for Android机场推荐](https://clashforandroid.co/node-subscribe-recommend/)
 
 
 Clash for Android 曾是 Android 平台最受欢迎的 Clash 客户端，以其强大的规则分流、低延迟和稳定的性能著称。尽管开发者已停止维护，但其经典版本依然支持目前主流的代理协议。
@@ -27,7 +27,7 @@ Clash for Android 曾是 Android 平台最受欢迎的 Clash 客户端，以其�
 * ❌ 不再新增功能或修复 bug
 * ✅ **历史版本依然可用**
 * ✅ 支持现有 **Clash 配置 / 订阅链接**
-* ⚠️ 建议新用户优先尝试 [Clash Meta for Android](https://clashkit.com/clash-meta-for-android/) 以支持 VLESS (Reality) 等新协议。
+* ⚠️ 建议新用户优先尝试 [Clash Meta for Android](https://clashmetaforandroidcn.com/) 以支持 VLESS (Reality) 等新协议。
 
 ---
 
